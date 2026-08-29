@@ -1,23 +1,19 @@
 class Solution {
-    public int house(int nums[],int n,int dp[])
-    {
-        if(n==0) return nums[n];
-        if(n<0) return 0;
-        if(dp[n]!=-1) return dp[n];
-        
-        
-
-        int rob=nums[n]+house(nums,n-2,dp);
-        int skip=house(nums,n-1,dp);
-
-        
-
-        return dp[n]=Math.max(rob,skip);
-    }
     public int rob(int[] nums) {
         int n=nums.length;
-        int dp[]=new int[n+1];
-        Arrays.fill(dp,-1);
-        return house(nums,n-1,dp);
+        int prev=nums[0];
+        int prev2=0;
+
+        for(int i=1;i<n;i++)
+        {
+            int rob=nums[i];
+            if(i>1) rob+=prev2;
+
+            int skip=prev;
+            int cur=Math.max(rob,skip);
+            prev2=prev;
+            prev=cur;
+        }
+        return prev;
     }
 }
