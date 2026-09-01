@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/Debjitsutar/Leetcode2/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
@@ -54,5 +55,10 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0435-non-overlapping-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
