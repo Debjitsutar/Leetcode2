@@ -47,6 +47,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/Debjitsutar/Leetcode2/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Debjitsutar/Leetcode2/tree/master/0746-min-cost-climbing-stairs) |
+| [0994-rotting-oranges](https://github.com/Debjitsutar/Leetcode2/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -70,8 +71,10 @@
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Debjitsutar/Leetcode2/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Debjitsutar/Leetcode2/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Debjitsutar/Leetcode2/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Debjitsutar/Leetcode2/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
