@@ -28,6 +28,7 @@
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Debjitsutar/Leetcode2/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/Debjitsutar/Leetcode2/tree/master/0746-min-cost-climbing-stairs) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -44,6 +45,7 @@
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Debjitsutar/Leetcode2/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0435-non-overlapping-intervals) |
 | [0733-flood-fill](https://github.com/Debjitsutar/Leetcode2/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Debjitsutar/Leetcode2/tree/master/0746-min-cost-climbing-stairs) |
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Debjitsutar/Leetcode2/tree/master/1971-find-if-path-exists-in-graph) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
