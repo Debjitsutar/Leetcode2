@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Debjitsutar/Leetcode2/tree/master/0006-zigzag-conversion) |
+| [0516-longest-palindromic-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@
 | [0403-frog-jump](https://github.com/Debjitsutar/Leetcode2/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Debjitsutar/Leetcode2/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/1143-longest-common-subsequence) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/3700-number-of-zigzag-arrays-ii) |
