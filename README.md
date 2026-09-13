@@ -29,6 +29,7 @@
 | [0070-climbing-stairs](https://github.com/Debjitsutar/Leetcode2/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Debjitsutar/Leetcode2/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Debjitsutar/Leetcode2/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
@@ -49,6 +50,7 @@
 | [0134-gas-station](https://github.com/Debjitsutar/Leetcode2/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Debjitsutar/Leetcode2/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Debjitsutar/Leetcode2/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0416-partition-equal-subset-sum) |
@@ -113,4 +115,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/1143-longest-common-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
