@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Debjitsutar/Leetcode2/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Debjitsutar/Leetcode2/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Debjitsutar/Leetcode2/tree/master/0189-rotate-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -53,6 +54,7 @@
 | [0055-jump-game](https://github.com/Debjitsutar/Leetcode2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/Debjitsutar/Leetcode2/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/Debjitsutar/Leetcode2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
@@ -143,4 +145,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debjitsutar/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Debjitsutar/Leetcode2/tree/master/0076-minimum-window-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Debjitsutar/Leetcode2/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
