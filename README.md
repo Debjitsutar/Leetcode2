@@ -61,6 +61,7 @@
 | [0189-rotate-array](https://github.com/Debjitsutar/Leetcode2/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Debjitsutar/Leetcode2/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0213-house-robber-ii) |
+| [0283-move-zeroes](https://github.com/Debjitsutar/Leetcode2/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Debjitsutar/Leetcode2/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Debjitsutar/Leetcode2/tree/master/0403-frog-jump) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Debjitsutar/Leetcode2/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Debjitsutar/Leetcode2/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Debjitsutar/Leetcode2/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
