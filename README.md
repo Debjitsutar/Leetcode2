@@ -48,6 +48,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Debjitsutar/Leetcode2/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Debjitsutar/Leetcode2/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Debjitsutar/Leetcode2/tree/master/0056-merge-intervals) |
@@ -134,6 +135,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Debjitsutar/Leetcode2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debjitsutar/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Debjitsutar/Leetcode2/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
