@@ -22,6 +22,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Debjitsutar/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Debjitsutar/Leetcode2/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Debjitsutar/Leetcode2/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Debjitsutar/Leetcode2/tree/master/0076-minimum-window-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Debjitsutar/Leetcode2/tree/master/1143-longest-common-subsequence) |
@@ -149,4 +150,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Debjitsutar/Leetcode2/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Debjitsutar/Leetcode2/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Debjitsutar/Leetcode2/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
