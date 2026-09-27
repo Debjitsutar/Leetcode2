@@ -1,14 +1,14 @@
 class Solution {
-    public int helper(int dp[] , int n)
-    {
-        if(n<=2) return n;
-        if(dp[n]!=-1) return dp[n];
-        dp[n]=helper(dp,n-1)+helper(dp,n-2);
-        return dp[n];
-    }
     public int climbStairs(int n) {
-        int dp[]=new int[n+1];
-        Arrays.fill(dp,-1);
-        return helper(dp,n);
+        if(n<=2) return n;
+        int p2=2;
+        int p1=1;
+        for(int i=3;i<=n;i++)
+        {
+            int cur=p1+p2;
+            p1=p2;
+            p2=cur;
+        }
+        return p2;
     }
 }
